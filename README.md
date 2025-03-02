@@ -1,5 +1,14 @@
-## Hi there 👋
+## Привет, Я Павел👋
+## Advanced Junior Python Backend Developer
+[Телеграмм](https://t.me/Mind_strives)
+*О себе*
+Я - Python-разработчик, специализирующийся в области Backend. Мой стек навыков включает в себя:
+*Навыки*
+![Alt text](https://camo.githubusercontent.com/d1652ce9d9e41d898ea03bd8772e8accb903947dc6bba2a410d76462f7d63d1b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f707974686f6e2f707974686f6e2d6f726967696e616c2e737667)
 
+*Проекты*
+
+Связаться со мной
 <!--
 **pavelmolot161/pavelmolot161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
